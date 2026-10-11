@@ -1,0 +1,6 @@
+a=(1,1,4,56,77,888,"Sonu","Rohan")
+no=a.count(1)
+print(no)
+n=a.index(56)
+print(n)
+print(len(a))
